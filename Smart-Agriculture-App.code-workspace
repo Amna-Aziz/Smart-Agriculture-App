@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Smart-Agriculture-App",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

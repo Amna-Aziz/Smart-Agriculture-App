@@ -5,3 +5,5 @@ pillow
 pandas
 scikit-learn
 requests
+gTTS
+reportlab
